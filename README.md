@@ -9,7 +9,7 @@
 1. Clone this repo locally:
 
 ```bash
-$ git clone https://github.com/dracula/macdown.git
+$ https://github.com/librity/omni-macdown
 ```
 
 2.  Open MacDown and navigate to `MacDown > Preferences > Editor`
